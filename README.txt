@@ -11,3 +11,5 @@ java ui.GameConsoleUI
 ## Notes
 - Core logic classes: core/GameLogic.java, core/ComputerPlayer.java
 - UI entry point: ui/GameConsoleUI.java (this file contains main())
+
+Updated from GitHub for pulling changes activity.
